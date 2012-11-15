@@ -24,5 +24,29 @@
             <d>a:2:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.1.2";}s:13:"pearinstaller";a:1:{s:3:"min";s:7:"1.4.0b1";}s:7:"package";a:4:{s:4:"name";s:15:"PHP_CodeSniffer";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:5:"1.4.0";s:3:"max";s:5:"9.9.9";}}s:8:"optional";a:1:{s:7:"package";a:2:{s:4:"name";s:9:"PHP_Timer";s:7:"channel";s:15:"pear.phpunit.de";}}}</d>
         </deps>
 
+    </pi>    <pi>
+        <p>
+            <n>PHP_PMD_BestOfMedia</n>
+            <c>tomslabs.github.com/pear</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>PHP License</l>
+            <s>BestOfMedia PHP PMD ruleset</s>
+            <d>A set of rules matching BestOfMedia symfony 1.4 coding standards</d>
+            <r xlink:href="/rest/r/php_pmd_bestofmedia" />
+        </p>
+
+        <a>
+            <r>
+                <v>0.0.0</v>
+                <s>alpha</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>0.0.0</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:7:"1.4.0b1";}s:7:"package";a:4:{s:4:"name";s:7:"PHP_PMD";s:7:"channel";s:14:"pear.phpmd.org";s:3:"min";s:5:"1.4.0";s:3:"max";s:5:"9.9.9";}}}</d>
+        </deps>
+
     </pi>
 </f>
