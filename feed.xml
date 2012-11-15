@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://github.com/Guibod/pear</id>
+    <updated>2012-11-15T13:32:20+01:00</updated>
+    <title>Guibod's pear repository Latest Releases</title>
+    <link href="http://github.com/Guibod/pear/feed.xml" rel="self" />
+    <author>
+        <name>http://github.com/Guibod/pear</name>
+    </author>
+
+
+</feed>
