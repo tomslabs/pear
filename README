@@ -1,2 +1,21 @@
 THis repository was created using :.
 http://blog.stuartherbert.com/php/2011/09/22/php-components-publishing-your-pear-channel-on-github/
+
+
+How to tweak a package.xml painlessly ?
+
+sudo pear install PEAR_PackageFileManager_Cli-alpha
+pfm /path/to/my/package.xml
+
+How to add a new file ?
+
+sudo pear channel-discover pear.pirum-project.org
+sudo pear install pirum/Pirum
+git checkout gh-pages
+pirum add /path/to/pear-project /path/to/PEAR-PACKAGE-0.0.0.tgz
+git add *
+git commit -m "bla bla bla bla"
+git push origin gh-pages
+
+Wait a few minutes, time for git-hub to update project pages. Then check:
+http://tomslabs.github.com/pear/
