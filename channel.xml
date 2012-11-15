@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <channel version="1.0" xmlns="http://pear.php.net/channel-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/channel-1.0 http://pear.php.net/dtd/channel-1.0.xsd">
-    <name>guibod.github.com/pear</name>
-    <summary>Guibod's pear repository</summary>
-    <suggestedalias>guibod</suggestedalias>
+    <name>tomslabs.github.com/pear</name>
+    <summary>Tom's Lab pear repository</summary>
+    <suggestedalias>tomslabs</suggestedalias>
     <servers>
         <primary>
             <rest>
-                <baseurl type="REST1.0">http://guibod.github.com/pear/rest/</baseurl>
-                <baseurl type="REST1.1">http://guibod.github.com/pear/rest/</baseurl>
-                <baseurl type="REST1.2">http://guibod.github.com/pear/rest/</baseurl>
-                <baseurl type="REST1.3">http://guibod.github.com/pear/rest/</baseurl>
+                <baseurl type="REST1.0">http://tomslabs.github.com/pear/rest/</baseurl>
+                <baseurl type="REST1.1">http://tomslabs.github.com/pear/rest/</baseurl>
+                <baseurl type="REST1.2">http://tomslabs.github.com/pear/rest/</baseurl>
+                <baseurl type="REST1.3">http://tomslabs.github.com/pear/rest/</baseurl>
             </rest>
         </primary>
     </servers>

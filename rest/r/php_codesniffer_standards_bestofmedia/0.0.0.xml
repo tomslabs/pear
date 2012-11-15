@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
     <p xlink:href="/rest/p/php_codesniffer_standards_bestofmedia">PHP_CodeSniffer_Standards_BestOfMedia</p>
-    <c>guibod.github.com/pear</c>
+    <c>tomslabs.github.com/pear</c>
     <v>0.0.0</v>
     <st>alpha</st>
     <l>PHP License</l>
@@ -13,6 +13,6 @@
 foo bar
  </n>
     <f>2761</f>
-    <g>http://guibod.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.0</g>
+    <g>http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.0</g>
     <x xlink:href="package.0.0.0.xml"/>
 </r>

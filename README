@@ -1,2 +1,12 @@
 THis repository was created using :.
 http://blog.stuartherbert.com/php/2011/09/22/php-components-publishing-your-pear-channel-on-github/
+
+How to add a new package and publish it ?
+
+pirum add . path/to/my/PHP_CodeSniffer_Standards_BestOfMedia-0.0.0.tgz
+git add *
+git commit -m "Bla bla bla bla"
+git push origin gh-pages
+git checkout master
+git pull --rebase gatekeeper/gh-pages
+git push origin master

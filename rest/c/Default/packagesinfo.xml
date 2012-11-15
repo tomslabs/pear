@@ -3,7 +3,7 @@
     <pi>
         <p>
             <n>PHP_CodeSniffer_Standards_BestOfMedia</n>
-            <c>guibod.github.com/pear</c>
+            <c>tomslabs.github.com/pear</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
             <l>PHP License</l>
             <s>BestOfMedia PHP_Code_Sniffer ruleset</s>

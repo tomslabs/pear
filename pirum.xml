@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <server>
-    <name>guibod.github.com/pear</name>
-    <summary>Guibod's pear repository</summary>
-    <alias>guibod</alias>
-    <url>http://guibod.github.com/pear</url>
+    <name>tomslabs.github.com/pear</name>
+    <summary>Tom's Lab pear repository</summary>
+    <alias>tomslabs</alias>
+    <url>http://tomslabs.github.com/pear</url>
 </server>

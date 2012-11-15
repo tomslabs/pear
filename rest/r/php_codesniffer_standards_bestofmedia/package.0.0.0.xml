@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0 http://pear.php.net/dtd/tasks-1.0.xsd http://pear.php.net/dtd/package-2.0 http://pear.php.net/dtd/package-2.0.xsd">
  <name>PHP_CodeSniffer_Standards_BestOfMedia</name>
- <channel>guibod.github.com/pear</channel>
+ <channel>tomslabs.github.com/pear</channel>
  <summary>BestOfMedia PHP_Code_Sniffer ruleset</summary>
  <description>A set of rules and sniffers matching BestOfMedia symfony 1.4 coding standards</description>
  <lead>
@@ -25,8 +25,8 @@
 foo bar
  </notes>
  <contents>
-  <dir baseinstalldir="PHP" name="/">
-   <file baseinstalldir="PHP" md5sum="a29e84d4d7ca82d11943ab3d2d69ca74" name="CodeSniffer/Standards/BestOfMedia/ruleset.xml" role="php" />
+  <dir name="/">
+    <file baseinstalldir="PHP" md5sum="a29e84d4d7ca82d11943ab3d2d69ca74" name="CodeSniffer/Standards/BestOfMedia/ruleset.xml" role="php" />
   </dir>
  </contents>
  <dependencies>
