@@ -6,10 +6,10 @@
     <servers>
         <primary>
             <rest>
-                <baseurl type="REST1.0">http://github.com/Guibod/pear/rest/</baseurl>
-                <baseurl type="REST1.1">http://github.com/Guibod/pear/rest/</baseurl>
-                <baseurl type="REST1.2">http://github.com/Guibod/pear/rest/</baseurl>
-                <baseurl type="REST1.3">http://github.com/Guibod/pear/rest/</baseurl>
+                <baseurl type="REST1.0">http://guibod.github.com/pear/rest/</baseurl>
+                <baseurl type="REST1.1">http://guibod.github.com/pear/rest/</baseurl>
+                <baseurl type="REST1.2">http://guibod.github.com/pear/rest/</baseurl>
+                <baseurl type="REST1.3">http://guibod.github.com/pear/rest/</baseurl>
             </rest>
         </primary>
     </servers>
