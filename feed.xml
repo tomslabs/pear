@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://guibod.github.com/pear</id>
-    <updated>2012-11-15T16:36:50+01:00</updated>
-    <title>Guibod's pear repository Latest Releases</title>
-    <link href="http://guibod.github.com/pear/feed.xml" rel="self" />
+    <id>http://tomslabs.github.com/pear</id>
+    <updated>2012-11-15T17:32:07+01:00</updated>
+    <title>Tom's Lab - pear repository Latest Releases</title>
+    <link href="http://tomslabs.github.com/pear/feed.xml" rel="self" />
     <author>
-        <name>http://guibod.github.com/pear</name>
+        <name>http://tomslabs.github.com/pear</name>
     </author>
 
     <entry>
         <title>PHP_CodeSniffer_Standards_BestOfMedia 0.0.0 (alpha)</title>
-        <link href="http://guibod.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.0.tgz" />
-        <id>http://guibod.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.0.tgz</id>
+        <link href="http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.0.tgz" />
+        <id>http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.0.tgz</id>
         <author>
             <name>guibod</name>
         </author>
