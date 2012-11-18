@@ -3,7 +3,7 @@
 <n>PHP_CodeSniffer_Standards_BestOfMedia</n>
 <c>tomslabs.github.com/pear</c>
 <ca xlink:href="/rest/c/Default">Default</ca>
-<l>PHP License</l>
+<l>Apache License</l>
 <s>BestOfMedia PHP_Code_Sniffer ruleset</s>
 <d>A set of rules and sniffers matching BestOfMedia symfony 1.4 coding standards</d>
 <r xlink:href="/rest/r/php_codesniffer_standards_bestofmedia" />
