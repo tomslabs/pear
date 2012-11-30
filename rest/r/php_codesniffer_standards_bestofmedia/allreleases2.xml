@@ -3,6 +3,11 @@
     <p>PHP_CodeSniffer_Standards_BestOfMedia</p>
     <c>tomslabs.github.com/pear</c>
     <r>
+        <v>0.0.3</v>
+        <s>stable</s>
+        <m>5.1.2</m>
+    </r>
+    <r>
         <v>0.0.2</v>
         <s>stable</s>
         <m>5.1.2</m>
