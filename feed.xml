@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://tomslabs.github.com/pear</id>
-    <updated>2013-01-15T10:22:24+01:00</updated>
+    <updated>2013-04-03T10:17:07+02:00</updated>
     <title>Tom's Lab - pear repository Latest Releases</title>
     <link href="http://tomslabs.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,20 @@
     </author>
 
     <entry>
+        <title>PHP_CodeSniffer_Standards_BestOfMedia 0.0.5 (stable)</title>
+        <link href="http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.5.tgz" />
+        <id>http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.5.tgz</id>
+        <author>
+            <name>guibod</name>
+        </author>
+        <updated>2013-04-03T10:12:16+02:00</updated>
+        <content>
+            
+[2013-01-15]
+ * Fixed SfActionsMethodDeclaration sniff (9079f0a)
+ 
+        </content>
+    </entry>    <entry>
         <title>PHP_CodeSniffer_Standards_BestOfMedia 0.0.4 (stable)</title>
         <link href="http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.4.tgz" />
         <id>http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.4.tgz</id>

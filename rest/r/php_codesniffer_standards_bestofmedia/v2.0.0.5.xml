@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/php_codesniffer_standards_bestofmedia">PHP_CodeSniffer_Standards_BestOfMedia</p>
+    <c>tomslabs.github.com/pear</c>
+    <v>0.0.5</v>
+    <a>1.4.0</a>
+    <mp>5.1.2</mp>
+    <st>stable</st>
+    <l>Apache License</l>
+    <m>guibod</m>
+    <s>BestOfMedia PHP_Code_Sniffer ruleset</s>
+    <d>A set of rules and sniffers matching BestOfMedia symfony 1.4 coding standards</d>
+    <da>2013-04-03 10:12:16</da>
+    <n>
+[2013-01-15]
+ * Fixed SfActionsMethodDeclaration sniff (9079f0a)
+ </n>
+    <f>9331</f>
+    <g>http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.5</g>
+    <x xlink:href="package.0.0.5.xml"/>
+</r>
