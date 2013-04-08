@@ -3,6 +3,22 @@
     <p>PHP_CodeSniffer_Standards_BestOfMedia</p>
     <c>tomslabs.github.com/pear</c>
     <r>
+        <v>0.0.8snapshot201304081709</v>
+        <s>snapshot</s>
+    </r>
+    <r>
+        <v>0.0.7</v>
+        <s>stable</s>
+    </r>
+    <r>
+        <v>0.0.7snapshot201304081632</v>
+        <s>snapshot</s>
+    </r>
+    <r>
+        <v>0.0.6</v>
+        <s>stable</s>
+    </r>
+    <r>
         <v>0.0.5</v>
         <s>stable</s>
     </r>

@@ -2,10 +2,10 @@
 <r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
     <p xlink:href="/rest/p/php_pmd_bestofmedia">PHP_PMD_BestOfMedia</p>
     <c>tomslabs.github.com/pear</c>
-    <v>0.0.0</v>
-    <a>1.4.0</a>
+    <v>0.0.1</v>
+    <a>0.0.1</a>
     <mp>5.2.3</mp>
-    <st>alpha</st>
+    <st>stable</st>
     <l>BSD License</l>
     <m>guibod</m>
     <s>PHP Mess Detector, standards for bestofmedia</s>
@@ -15,11 +15,11 @@
     with customizeable thresholds and reports all suspect software artifacts.
 
     This package extends project with BestOfMedia (bestofmedia.com) standards.</d>
-    <da>2012-11-15 17:56:42</da>
+    <da>2013-04-08 11:34:54</da>
     <n>
-foo bar
+- Broken package file that causes pyrus to fail during installation fixed.
  </n>
-    <f>2049</f>
-    <g>http://tomslabs.github.com/pear/get/PHP_PMD_BestOfMedia-0.0.0</g>
-    <x xlink:href="package.0.0.0.xml"/>
+    <f>3155</f>
+    <g>http://tomslabs.github.com/pear/get/PHP_PMD_BestOfMedia-0.0.1</g>
+    <x xlink:href="package.0.0.1.xml"/>
 </r>

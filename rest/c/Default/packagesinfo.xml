@@ -13,6 +13,22 @@
 
         <a>
             <r>
+                <v>0.0.8snapshot201304081709</v>
+                <s>snapshot</s>
+            </r>
+            <r>
+                <v>0.0.7</v>
+                <s>stable</s>
+            </r>
+            <r>
+                <v>0.0.7snapshot201304081632</v>
+                <s>snapshot</s>
+            </r>
+            <r>
+                <v>0.0.6</v>
+                <s>stable</s>
+            </r>
+            <r>
                 <v>0.0.5</v>
                 <s>stable</s>
             </r>
@@ -39,6 +55,22 @@
 
         </a>
 
+        <deps>
+            <v>0.0.8snapshot201304081709</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.1.2";}s:13:"pearinstaller";a:1:{s:3:"min";s:7:"1.4.0b1";}s:7:"package";a:4:{s:4:"name";s:15:"PHP_CodeSniffer";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:5:"1.4.0";s:3:"max";s:5:"9.9.9";}}}</d>
+        </deps>
+        <deps>
+            <v>0.0.7</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.1.2";}s:13:"pearinstaller";a:1:{s:3:"min";s:7:"1.4.0b1";}s:7:"package";a:4:{s:4:"name";s:15:"PHP_CodeSniffer";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:5:"1.4.0";s:3:"max";s:5:"9.9.9";}}}</d>
+        </deps>
+        <deps>
+            <v>0.0.7snapshot201304081632</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.1.2";}s:13:"pearinstaller";a:1:{s:3:"min";s:7:"1.4.0b1";}s:7:"package";a:4:{s:4:"name";s:15:"PHP_CodeSniffer";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:5:"1.4.0";s:3:"max";s:5:"9.9.9";}}}</d>
+        </deps>
+        <deps>
+            <v>0.0.6</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.1.2";}s:13:"pearinstaller";a:1:{s:3:"min";s:7:"1.4.0b1";}s:7:"package";a:4:{s:4:"name";s:15:"PHP_CodeSniffer";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:5:"1.4.0";s:3:"max";s:5:"9.9.9";}}}</d>
+        </deps>
         <deps>
             <v>0.0.5</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.1.2";}s:13:"pearinstaller";a:1:{s:3:"min";s:7:"1.4.0b1";}s:7:"package";a:4:{s:4:"name";s:15:"PHP_CodeSniffer";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:5:"1.4.0";s:3:"max";s:5:"9.9.9";}}}</d>
@@ -69,13 +101,22 @@
             <n>PHP_PMD_BestOfMedia</n>
             <c>tomslabs.github.com/pear</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
-            <l>PHP License</l>
-            <s>BestOfMedia PHP PMD ruleset</s>
-            <d>A set of rules matching BestOfMedia symfony 1.4 coding standards</d>
+            <l>BSD License</l>
+            <s>PHP Mess Detector, standards for bestofmedia</s>
+            <d>The PHP Mess Detector aims to be a simplified PHP port of the well known
+    Java Tool PMD. This project uses PHP_Depend to measure several software
+    metrics from given source code, then it compares the calculated values
+    with customizeable thresholds and reports all suspect software artifacts.
+
+    This package extends project with BestOfMedia (bestofmedia.com) standards.</d>
             <r xlink:href="/rest/r/php_pmd_bestofmedia" />
         </p>
 
         <a>
+            <r>
+                <v>0.0.1</v>
+                <s>stable</s>
+            </r>
             <r>
                 <v>0.0.0</v>
                 <s>alpha</s>
@@ -83,6 +124,10 @@
 
         </a>
 
+        <deps>
+            <v>0.0.1</v>
+            <d>a:1:{s:8:"required";a:4:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{s:4:"name";s:7:"PHP_PMD";s:7:"channel";s:14:"pear.phpmd.org";s:3:"min";s:5:"1.4.1";}s:9:"extension";a:4:{i:0;a:1:{s:4:"name";s:4:"pcre";}i:1;a:1:{s:4:"name";s:3:"spl";}i:2;a:1:{s:4:"name";s:3:"dom";}i:3;a:1:{s:4:"name";s:9:"simplexml";}}}}</d>
+        </deps>
         <deps>
             <v>0.0.0</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:7:"1.4.0b1";}s:7:"package";a:4:{s:4:"name";s:7:"PHP_PMD";s:7:"channel";s:14:"pear.phpmd.org";s:3:"min";s:5:"1.4.0";s:3:"max";s:5:"9.9.9";}}}</d>

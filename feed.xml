@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://tomslabs.github.com/pear</id>
-    <updated>2013-04-03T10:17:07+02:00</updated>
+    <updated>2013-04-08T17:10:01+02:00</updated>
     <title>Tom's Lab - pear repository Latest Releases</title>
     <link href="http://tomslabs.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,59 @@
     </author>
 
     <entry>
+        <title>PHP_CodeSniffer_Standards_BestOfMedia 0.0.8snapshot201304081709 (snapshot)</title>
+        <link href="http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.8snapshot201304081709.tgz" />
+        <id>http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.8snapshot201304081709.tgz</id>
+        <author>
+            <name>guibod</name>
+        </author>
+        <updated>2013-04-08T17:09:53+02:00</updated>
+        <content>
+            
+x
+ 
+        </content>
+    </entry>    <entry>
+        <title>PHP_CodeSniffer_Standards_BestOfMedia 0.0.7 (stable)</title>
+        <link href="http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.7.tgz" />
+        <id>http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.7.tgz</id>
+        <author>
+            <name>guibod</name>
+        </author>
+        <updated>2013-04-08T16:40:04+02:00</updated>
+        <content>
+            
+x
+ 
+        </content>
+    </entry>    <entry>
+        <title>PHP_CodeSniffer_Standards_BestOfMedia 0.0.7snapshot201304081632 (snapshot)</title>
+        <link href="http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.7snapshot201304081632.tgz" />
+        <id>http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.7snapshot201304081632.tgz</id>
+        <author>
+            <name>guibod</name>
+        </author>
+        <updated>2013-04-08T16:32:56+02:00</updated>
+        <content>
+            
+x
+ 
+        </content>
+    </entry>    <entry>
+        <title>PHP_CodeSniffer_Standards_BestOfMedia 0.0.6 (stable)</title>
+        <link href="http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.6.tgz" />
+        <id>http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.6.tgz</id>
+        <author>
+            <name>guibod</name>
+        </author>
+        <updated>2013-04-08T11:34:34+02:00</updated>
+        <content>
+            
+[2013-01-15]
+ * Fixed SfActionsMethodDeclaration sniff (9079f0a)
+ 
+        </content>
+    </entry>    <entry>
         <title>PHP_CodeSniffer_Standards_BestOfMedia 0.0.5 (stable)</title>
         <link href="http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.5.tgz" />
         <id>http://tomslabs.github.com/pear/get/PHP_CodeSniffer_Standards_BestOfMedia-0.0.5.tgz</id>
@@ -98,6 +151,19 @@ foo bar
         <content>
             
 foo bar
+ 
+        </content>
+    </entry>    <entry>
+        <title>PHP_PMD_BestOfMedia 0.0.1 (stable)</title>
+        <link href="http://tomslabs.github.com/pear/get/PHP_PMD_BestOfMedia-0.0.1.tgz" />
+        <id>http://tomslabs.github.com/pear/get/PHP_PMD_BestOfMedia-0.0.1.tgz</id>
+        <author>
+            <name>guibod</name>
+        </author>
+        <updated>2013-04-08T11:34:54+02:00</updated>
+        <content>
+            
+- Broken package file that causes pyrus to fail during installation fixed.
  
         </content>
     </entry>    <entry>

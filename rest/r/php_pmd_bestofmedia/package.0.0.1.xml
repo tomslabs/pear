@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0                              http://pear.php.net/dtd/tasks-1.0.xsd                              http://pear.php.net/dtd/package-2.0                              http://pear.php.net/dtd/package-2.0.xsd">
+ <name>PHP_PMD_BestOfMedia</name>
+ <channel>tomslabs.github.com/pear</channel>
+ <summary>PHP Mess Detector, standards for bestofmedia</summary>
+ <description>The PHP Mess Detector aims to be a simplified PHP port of the well known
+    Java Tool PMD. This project uses PHP_Depend to measure several software
+    metrics from given source code, then it compares the calculated values
+    with customizeable thresholds and reports all suspect software artifacts.
+
+    This package extends project with BestOfMedia (bestofmedia.com) standards.</description>
+ <lead>
+  <name>Guillaume Boddaert</name>
+  <user>guibod</user>
+  <email>gboddaert@bestofmedia.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2013-04-08</date>
+ <time>11:34:54</time>
+ <version>
+  <release>0.0.1</release>
+  <api>0.0.1</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license uri="http://www.opensource.org/licenses/bsd-license.php">BSD License</license>
+ <notes>
+- Broken package file that causes pyrus to fail during installation fixed.
+ </notes>
+ <contents>
+  <dir name="/">
+   <file md5sum="c73cfce163dea0e9dbf991db8c5ada6a" name="PHP/PMD/Rule/Naming/LongVariableCopy.php" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+    <tasks:replace from="@data_dir@" to="data_dir" type="pear-config" />
+    <tasks:replace from="@php_bin@" to="php_bin" type="pear-config" />
+    <tasks:replace from="@bin_dir@" to="bin_dir" type="pear-config" />
+    <tasks:replace from="/usr/bin/env php" to="php_bin" type="pear-config" />
+   </file>
+   <file baseinstalldir="/data/PHP_PMD" md5sum="11e97a192e31254831ce3bea511e9665" name="resources/rulesets/bestofmedia.xml" role="php">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+    <tasks:replace from="@data_dir@" to="data_dir" type="pear-config" />
+    <tasks:replace from="@php_bin@" to="php_bin" type="pear-config" />
+    <tasks:replace from="@bin_dir@" to="bin_dir" type="pear-config" />
+    <tasks:replace from="/usr/bin/env php" to="php_bin" type="pear-config" />
+   </file>
+   <file md5sum="35fe9683201b6f4e903117611f89d1fc" name="LICENSE" role="doc">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+    <tasks:replace from="@data_dir@" to="data_dir" type="pear-config" />
+    <tasks:replace from="@php_bin@" to="php_bin" type="pear-config" />
+    <tasks:replace from="@bin_dir@" to="bin_dir" type="pear-config" />
+    <tasks:replace from="/usr/bin/env php" to="php_bin" type="pear-config" />
+   </file>
+   <file md5sum="d41d8cd98f00b204e9800998ecf8427e" name="CHANGELOG" role="doc">
+    <tasks:replace from="@package_version@" to="version" type="package-info" />
+    <tasks:replace from="@data_dir@" to="data_dir" type="pear-config" />
+    <tasks:replace from="@php_bin@" to="php_bin" type="pear-config" />
+    <tasks:replace from="@bin_dir@" to="bin_dir" type="pear-config" />
+    <tasks:replace from="/usr/bin/env php" to="php_bin" type="pear-config" />
+   </file>
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.2.3</min>
+   </php>
+   <pearinstaller>
+    <min>1.6.0</min>
+   </pearinstaller>
+   <package>
+    <name>PHP_PMD</name>
+    <channel>pear.phpmd.org</channel>
+    <min>1.4.1</min>
+   </package>
+   <extension>
+    <name>pcre</name>
+   </extension>
+   <extension>
+    <name>spl</name>
+   </extension>
+   <extension>
+    <name>dom</name>
+   </extension>
+   <extension>
+    <name>simplexml</name>
+   </extension>
+  </required>
+ </dependencies>
+ <phprelease />
+ <changelog>
+  <release>
+   <date>2010-01-05</date>
+   <time>22:16:58</time>
+   <version>
+    <release>0.0.1</release>
+    <api>0.0.1</api>
+   </version>
+   <stability>
+    <release>stable</release>
+    <api>stable</api>
+   </stability>
+   <license uri="http://www.opensource.org/licenses/bsd-license.php">BSD License</license>
+   <notes>
+- Reworked the crap out of the project
+- Mavenized project
+- No change for end user.
+   </notes>
+  </release>
+  <release>
+   <version>
+    <release>0.0.0</release>
+    <api>1.4.0</api>
+   </version>
+   <stability>
+    <release>alpha</release>
+    <api>alpha</api>
+   </stability>
+   <date>2012-11-15</date>
+   <license uri="http://www.php.net/license/">PHP License</license>
+   <notes>
+- Initial release of BestOfMedia&apos;s PHP Mess Detector coding standards.
+   </notes>
+  </release>
+ </changelog>
+</package>

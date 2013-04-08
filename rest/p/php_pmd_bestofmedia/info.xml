@@ -3,8 +3,13 @@
 <n>PHP_PMD_BestOfMedia</n>
 <c>tomslabs.github.com/pear</c>
 <ca xlink:href="/rest/c/Default">Default</ca>
-<l>PHP License</l>
-<s>BestOfMedia PHP PMD ruleset</s>
-<d>A set of rules matching BestOfMedia symfony 1.4 coding standards</d>
+<l>BSD License</l>
+<s>PHP Mess Detector, standards for bestofmedia</s>
+<d>The PHP Mess Detector aims to be a simplified PHP port of the well known
+    Java Tool PMD. This project uses PHP_Depend to measure several software
+    metrics from given source code, then it compares the calculated values
+    with customizeable thresholds and reports all suspect software artifacts.
+
+    This package extends project with BestOfMedia (bestofmedia.com) standards.</d>
 <r xlink:href="/rest/r/php_pmd_bestofmedia" />
 </p>
