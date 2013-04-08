@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://tomslabs.github.com/pear</id>
-    <updated>2013-04-08T17:10:01+02:00</updated>
+    <updated>2013-04-08T17:26:39+02:00</updated>
     <title>Tom's Lab - pear repository Latest Releases</title>
     <link href="http://tomslabs.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -151,6 +151,19 @@ foo bar
         <content>
             
 foo bar
+ 
+        </content>
+    </entry>    <entry>
+        <title>PHP_PMD_BestOfMedia 0.0.2 (stable)</title>
+        <link href="http://tomslabs.github.com/pear/get/PHP_PMD_BestOfMedia-0.0.2.tgz" />
+        <id>http://tomslabs.github.com/pear/get/PHP_PMD_BestOfMedia-0.0.2.tgz</id>
+        <author>
+            <name>guibod</name>
+        </author>
+        <updated>2013-04-08T17:26:30+02:00</updated>
+        <content>
+            
+x
  
         </content>
     </entry>    <entry>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/php_pmd_bestofmedia">PHP_PMD_BestOfMedia</p>
+    <c>tomslabs.github.com/pear</c>
+    <v>0.0.2</v>
+    <a>0.0.2</a>
+    <mp>5.2.3</mp>
+    <st>stable</st>
+    <l>BSD License</l>
+    <m>guibod</m>
+    <s>PHP Mess Detector, standards for bestofmedia</s>
+    <d>The PHP Mess Detector aims to be a simplified PHP port of the well known
+    Java Tool PMD. This project uses PHP_Depend to measure several software
+    metrics from given source code, then it compares the calculated values
+    with customizeable thresholds and reports all suspect software artifacts.
+
+    This package extends project with BestOfMedia (bestofmedia.com) standards.</d>
+    <da>2013-04-08 17:26:30</da>
+    <n>
+x
+ </n>
+    <f>3162</f>
+    <g>http://tomslabs.github.com/pear/get/PHP_PMD_BestOfMedia-0.0.2</g>
+    <x xlink:href="package.0.0.2.xml"/>
+</r>

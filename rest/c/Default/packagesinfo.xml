@@ -114,6 +114,10 @@
 
         <a>
             <r>
+                <v>0.0.2</v>
+                <s>stable</s>
+            </r>
+            <r>
                 <v>0.0.1</v>
                 <s>stable</s>
             </r>
@@ -124,6 +128,10 @@
 
         </a>
 
+        <deps>
+            <v>0.0.2</v>
+            <d>a:1:{s:8:"required";a:4:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{s:4:"name";s:7:"PHP_PMD";s:7:"channel";s:14:"pear.phpmd.org";s:3:"min";s:5:"1.4.1";}s:9:"extension";a:4:{i:0;a:1:{s:4:"name";s:4:"pcre";}i:1;a:1:{s:4:"name";s:3:"spl";}i:2;a:1:{s:4:"name";s:3:"dom";}i:3;a:1:{s:4:"name";s:9:"simplexml";}}}}</d>
+        </deps>
         <deps>
             <v>0.0.1</v>
             <d>a:1:{s:8:"required";a:4:{s:3:"php";a:1:{s:3:"min";s:5:"5.2.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.6.0";}s:7:"package";a:3:{s:4:"name";s:7:"PHP_PMD";s:7:"channel";s:14:"pear.phpmd.org";s:3:"min";s:5:"1.4.1";}s:9:"extension";a:4:{i:0;a:1:{s:4:"name";s:4:"pcre";}i:1;a:1:{s:4:"name";s:3:"spl";}i:2;a:1:{s:4:"name";s:3:"dom";}i:3;a:1:{s:4:"name";s:9:"simplexml";}}}}</d>
